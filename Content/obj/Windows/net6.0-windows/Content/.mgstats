@@ -1,0 +1,27 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/SeKo/Desktop/pro/Content/../../игра/images/defeat.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/defeat.xnb","TextureProcessor","Texture2DContent",2146523,8294485,0,3548574
+"C:/Users/SeKo/Desktop/pro/Content/../../игра/images/dive.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/dive.xnb","TextureProcessor","Texture2DContent",989,82765,0,0097359
+"C:/Users/SeKo/Desktop/pro/Content/../../игра/images/nest.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/nest.xnb","TextureProcessor","Texture2DContent",223409,6696085,0,1648283
+"C:/Users/SeKo/Desktop/pro/Content/../../игра/images/stone.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/stone.xnb","TextureProcessor","Texture2DContent",17045,191637,0,006872
+"C:/Users/SeKo/Desktop/pro/Content/but-exit.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-exit.xnb","TextureProcessor","Texture2DContent",4089,340085,0,012094
+"C:/Users/SeKo/Desktop/pro/Content/but-exit2.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-exit2.xnb","TextureProcessor","Texture2DContent",4018,340085,0,0114201
+"C:/Users/SeKo/Desktop/pro/Content/but-exit3.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-exit3.xnb","TextureProcessor","Texture2DContent",2982,340085,0,0076095
+"C:/Users/SeKo/Desktop/pro/Content/but-exit4.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-exit4.xnb","TextureProcessor","Texture2DContent",2576,340085,0,0095256
+"C:/Users/SeKo/Desktop/pro/Content/but-infinity.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-infinity.xnb","TextureProcessor","Texture2DContent",6262,340085,0,0068972
+"C:/Users/SeKo/Desktop/pro/Content/but-ordinary.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-ordinary.xnb","TextureProcessor","Texture2DContent",4440,340085,0,0085996
+"C:/Users/SeKo/Desktop/pro/Content/but-play.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-play.xnb","TextureProcessor","Texture2DContent",7025,340085,0,0067963
+"C:/Users/SeKo/Desktop/pro/Content/but-restart.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-restart.xnb","TextureProcessor","Texture2DContent",4140,340085,0,0074889
+"C:/Users/SeKo/Desktop/pro/Content/but-restart2.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-restart2.xnb","TextureProcessor","Texture2DContent",3562,340085,0,0072498
+"C:/Users/SeKo/Desktop/pro/Content/but-tutorail.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/but-tutorial.xnb","TextureProcessor","Texture2DContent",5774,340085,0,0071607
+"C:/Users/SeKo/Desktop/pro/Content/digital-art-420801.jpg","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/Background.xnb","TextureProcessor","Texture2DContent",488950,8294485,0,1640961
+"C:/Users/SeKo/Desktop/pro/Content/duck 1.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/duck_1.xnb","TextureProcessor","Texture2DContent",18737,82765,0,0038558
+"C:/Users/SeKo/Desktop/pro/Content/duck 2.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/duck_2.xnb","TextureProcessor","Texture2DContent",22260,82765,0,0037445
+"C:/Users/SeKo/Desktop/pro/Content/duck.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/duck.xnb","TextureProcessor","Texture2DContent",16293,82765,0,0048904
+"C:/Users/SeKo/Desktop/pro/Content/File.spritefont","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2089,267295,0,1188365
+"C:/Users/SeKo/Desktop/pro/Content/island.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/island.xnb","TextureProcessor","Texture2DContent",48743,160085,0,018624
+"C:/Users/SeKo/Desktop/pro/Content/log.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/log.xnb","TextureProcessor","Texture2DContent",25955,200085,0,0239753
+"C:/Users/SeKo/Desktop/pro/Content/shores.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/shores.xnb","TextureProcessor","Texture2DContent",73375,8294485,0,1611874
+"C:/Users/SeKo/Desktop/pro/Content/tutorial.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/tutorial.xnb","TextureProcessor","Texture2DContent",1555440,8294485,0,2151941
+"C:/Users/SeKo/Desktop/pro/Content/win.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/win.xnb","TextureProcessor","Texture2DContent",2733222,8294485,0,2076134
+"C:/Users/SeKo/Desktop/pro/Content/worm.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/worm.xnb","TextureProcessor","Texture2DContent",2382,4437,0,0014973
+"C:/Users/SeKo/Desktop/pro/Content/Без имени-2.png","C:/Users/SeKo/Desktop/pro/Content/bin/Windows/Content/Wave.xnb","TextureProcessor","Texture2DContent",2704,21685,0,0014688
